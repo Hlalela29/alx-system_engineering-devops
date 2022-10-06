@@ -1,1 +1,1 @@
-SHELL BASICS Readme
+This REPO contains solutions to shell tasks
