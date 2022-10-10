@@ -1,1 +1,1 @@
-Shell I/O Reditrctions
+Shell I/O Redirections
